@@ -12,3 +12,7 @@ Makefile*
 # Binary
 GPXSee
 gpxsee
+
+# MacOS app dir
+GPXSee.app/
+.DS_Store

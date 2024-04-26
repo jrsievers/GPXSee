@@ -16,7 +16,8 @@ QT += core \
     printsupport \
     positioning \
     svg \
-    serialport
+    serialport \
+    testlib
 greaterThan(QT_MAJOR_VERSION, 5) {
     QT += openglwidgets
 }
